@@ -7,6 +7,14 @@
 Run the following command:
 
 ```bash
+npm init
+```
+
+```bash
+npm install
+```
+
+```bash
 npm create vite@latest . -- --template react
 ```
 
